@@ -1,0 +1,6 @@
+.Heading {
+
+    display: flex;
+    justify-content: flex-start;
+    width: 80%;
+}

@@ -1,0 +1,23 @@
+.table {
+    
+    border-collapse: collapse;
+}
+
+.table th  {
+    border: 2px black solid;
+    background-color: rgb(187, 179, 179);
+}
+
+.table td {
+
+    border: 2px black solid;
+    padding: 5px;
+
+}
+
+.button {
+    background-color: rgb(134, 204, 201);
+    color: black;
+    padding: 2px;
+    text-decoration: solid;
+}
